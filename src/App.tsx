@@ -210,7 +210,7 @@ export default function App() {
           <div className="w-full lg:w-1/2 flex flex-col gap-6">
             <span className="inline-flex items-center gap-2 px-3 py-1 bg-white/5 border border-white/10 rounded-full text-[10px] font-bold uppercase tracking-widest text-[#FF9900] w-fit">
               <span className="h-2 w-2 rounded-full bg-orange-500 animate-pulse" />
-              Web Developer Full Stack - PICT Student | Virtual Intern at VaultOfCode
+              Web Developer Full Stack - PICT Student
             </span>
             <h1 className="text-4xl sm:text-6xl lg:text-7xl font-extralight tracking-tighter leading-none text-slate-100 uppercase">
               Learning & <br />
