@@ -1,0 +1,6 @@
+{
+  "name": "Jagruti Kaulkar Portfolio",
+  "description": "Interactive and animated developer portfolio of Jagruti Kaulkar, featuring skills physics, cloud simulator, and an AI interview chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
