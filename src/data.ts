@@ -123,7 +123,7 @@ export const PROJECTS: Project[] = [
     technologies: ["React.js", "Node.js", "Express.js", "MySQL", "Git"],
     description: "An automated web-based solution for educational institutes to trace, measure, and analyze student performances dynamically in consistency with predefined Course Outcomes (COs).",
     detailedWalkthrough: "Designed custom scoring configurations, interactive admin trackers, and visual breakdown curves that let faculty extract automatic metrics to evaluate how classes align with academic curriculum targets.",
-    githubUrl: "https://github.com/jagrutikaulkar/course-attainment-system",
+    githubUrl: "https://github.com/jagrutikaulkar/Course_Attainmnet",
     impactMetric: "Saves 40+ hours per semester of manual calculations for each university department."
   },
   {
@@ -133,27 +133,27 @@ export const PROJECTS: Project[] = [
     technologies: ["Python", "NLTK", "Scikit-learn", "TensorFlow", "BERT"],
     description: "A machine learning and Deep Learning model that interprets college-specific remarks, evaluating text comments to dynamically categorize feedback into Positive, Negative, or Neutral sentiments.",
     detailedWalkthrough: "Utilized BERT transformers and NLTK pipeline structures to achieve high parsing accuracies. Features an elegant interactive validation screen where recruiters can drop statements and extract AI-processed outcomes.",
-    githubUrl: "https://github.com/jagrutikaulkar/review-sentiment-analyzer",
+    githubUrl: "https://github.com/jagrutikaulkar/Sentiment-Analysis-System",
     impactMetric: "Achieved 94.2% validation accuracy on unstructured college feedback datasets."
   },
   {
     id: "vehicle-breakdown",
-    title: "Vehicle Breakdown Assist",
+    title: "Vehicle Breakdown Assistance",
     category: "Web",
     technologies: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
     description: "An interactive, smart dispatching system designed to link motorists experiencing road emergencies with nearby towing, fuel major suppliers, or mechanical services.",
     detailedWalkthrough: "Engineered high-fidelity client forms and immediate service-provider assignment mechanics. Supports dynamic pricing logic based on relative assistance request distance.",
-    githubUrl: "https://github.com/jagrutikaulkar/vehicle-breakdown-assistance",
+    githubUrl: "https://github.com/jagrutikaulkar/Vehicle_Breakdown_Assist",
     impactMetric: "Reduced rescue dispatch wait timings by avg 25 minutes using instant coordinates matching."
   },
   {
     id: "defect-detection",
-    title: "Industrial Defect & Cost AI",
+    title: "Industrial Defect Detection and cost prediction",
     category: "AI/ML",
     technologies: ["Python", "Computer Vision", "TensorFlow", "Scikit-learn"],
     description: "Automated computer vision software deployed to detect cosmetic or functional anomalies in production-line objects while mapping raw feed variations to pricing variables.",
     detailedWalkthrough: "Constructed binary fault categorization algorithms and mapped resource cost indices to project dynamic industrial pricing variations. Enabled plants to monitor throughput defects on high-speed convey belts.",
-    githubUrl: "https://github.com/jagrutikaulkar/industrial-defect-ai",
+    githubUrl: "https://github.com/jagrutikaulkar/Defect_Detection_Cost_Prediction",
     impactMetric: "Identified manufacturing anomalies instantly with a low false alarm rating under 2.5%."
   }
 ];
@@ -211,7 +211,7 @@ export const ACHIEVEMENTS: Achievement[] = [
 ];
 
 export const LEETCODE_PROFILE = {
-  url: "https://leetcode.com/u/jagrutikaulkar0/",
+  url: "https://leetcode.com/u/Jagruti_Kaulkar/",
   solvedCount: "350+",
   badges: ["Active Solved Track", "Consistent Daily Streaks", "Top Algorithm Contest Participant"],
   focusAreas: ["Arrays", "Two Pointers", "Dynamic Programming", "Trees & Graphs"]

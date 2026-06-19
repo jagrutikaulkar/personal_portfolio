@@ -148,7 +148,7 @@ export default function App() {
           {/* LeetCode quick button */}
           <div className="hidden lg:flex items-center gap-3">
             <a
-              href="https://leetcode.com/u/jagrutikaulkar0/"
+              href="https://leetcode.com/u/Jagruti_Kaulkar/"
               target="_blank"
               rel="noopener noreferrer"
               className="py-2 px-4 border border-yellow-500/20 hover:border-yellow-500 bg-white/5 hover:bg-yellow-500/10 text-xs font-mono tracking-widest uppercase transition-all rounded-lg text-yellow-400 flex items-center gap-1.5"
